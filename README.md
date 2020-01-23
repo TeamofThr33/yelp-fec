@@ -1,10 +1,10 @@
-# Zillow Web Application
+# Yelp Web Application
 
 > Hack Reactor Front End Capstone Project
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
+  - https://github.com/TeamofThr33/photo-gallery-modal
   - https://github.com/teamName/repo
   - https://github.com/teamName/repo
   - https://github.com/teamName/repo
