@@ -1,6 +1,6 @@
-# Project Name
+# Zillow Web Application
 
-> Project description
+> Hack Reactor Front End Capstone Project
 
 ## Related Projects
 
